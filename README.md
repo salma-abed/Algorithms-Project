@@ -147,11 +147,9 @@ def backRoute(x,y):
     #Remove the comment of desired algo
 
 renderBoard()
-#BFS(startx,starty)
+
 #DFS(startx,starty)
-#UCS(startx,starty)
-#gbfs(startx,starty)
-#AStar(startx,starty)
+
 setMaze()
 renderBoard()
 cost = 0
